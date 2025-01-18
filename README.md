@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+IMPORTANT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+yarn only due to updated react 19 version
+see details: https://github.com/facebook/react/issues/31701
 
 ## Available Scripts
 
